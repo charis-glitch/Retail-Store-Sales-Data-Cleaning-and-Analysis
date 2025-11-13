@@ -62,7 +62,7 @@ This project mimics a **real-world client request** — transforming raw busines
 
 ---
 
-## 💡 Insights
+## Insights
 
 - The dataset contained multiple formatting issues that mimic **real business data challenges**.
 - Some transactions were missing unit prices but could be derived mathematically.
@@ -104,15 +104,6 @@ This project mimics a **real-world client request** — transforming raw busines
 ✅ Excel Automation with Python  
 ✅ Visualization and Reporting  
 ✅ Reproducible & Readable Jupyter Notebook Workflow  
-
----
-
-## Example Use Case
-
-A retail company could use this workflow to:
-- Clean monthly transaction data automatically,
-- Identify best-selling products and categories,
-- Generate Excel reports ready for management review.
 
 
 
