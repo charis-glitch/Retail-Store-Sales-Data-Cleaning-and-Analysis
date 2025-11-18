@@ -1,7 +1,7 @@
 # Retail Store Sales Data Cleaning & Analysis
 
 This project demonstrates **professional data cleaning, analysis, and reporting** using **Python (Pandas, NumPy, Matplotlib, Seaborn)** on a **multi-sheet Excel dataset**.  
-It’s designed as a portfolio example to showcase my **data wrangling, visualization, and Excel automation** skills for **Upwork freelance projects**.
+It’s designed as a portfolio example to showcase my **data wrangling, visualization, and Excel automation** skills for **freelance projects**.
 
 ---
 
